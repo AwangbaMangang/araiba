@@ -1,0 +1,23 @@
+// package.json
+{
+  "name": "text-replacement-tool",
+  "version": "1.0.0",
+  "description": "A powerful text replacement tool with custom dictionary management",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required for static HTML'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "text-replacement",
+    "dictionary",
+    "text-processing",
+    "spell-check"
+  ],
+  "author": "Araiba",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
